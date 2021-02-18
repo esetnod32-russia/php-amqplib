@@ -1,5 +1,5 @@
 {
-    "name": "php-amqplib/php-amqplib",
+    "name": "eset/php-amqplib",
     "replace": {
         "videlalvaro/php-amqplib": "self.version"
     },
@@ -32,7 +32,7 @@
         "php": ">=5.6.3,<8.0",
         "ext-sockets": "*",
         "ext-mbstring": "*",
-        "phpseclib/phpseclib": "^2.0|^3.0"
+        "eset/phpseclib": "^2.0|^3.0"
     },
     "require-dev": {
         "ext-curl": "*",
